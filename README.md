@@ -1,8 +1,8 @@
 # Hi, I'm Nikhila Chandupatla 👋
 
-**Data Analyst | SQL, Python, Excel | Healthcare & Clinical Data | Ex-SAS Programmer (6+ yrs)**
+**Data Analyst | SQL, Python, Excel | Healthcare & Clinical Data | Ex-SAS Programmer (7+ yrs)**
 
-I spent 6.5 years as a statistical programmer in clinical research, cleaning, validating, and building compliant datasets (CDISC-SDTM) for Phase I–III trials. I'm now applying that same data-quality mindset to data analytics — turning messy, real-world data into insights people can act on.
+I spent over 7 years as a statistical programmer in clinical research, cleaning, validating, and building compliant datasets (CDISC-SDTM) for Phase I–III trials. I'm now applying that same data-quality mindset to data analytics — turning messy, real-world data into insights people can act on.
 
 - 🔭 **Currently working on:** end-to-end data analysis projects in Python, SQL, and Excel (see pinned repos below)
 - 🌱 **Currently learning:** data analytics and visualization through the NPower Canada Junior Data Analyst Program and an IBM Data Analyst Professional Certificate
